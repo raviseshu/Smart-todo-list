@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI List</title>
+</head>
+<body>
+    <h1>All AI Entries</h1>
+    <ul>
+        {% for ai in ais %}
+            <li>{{ ai.name }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
