@@ -1,11 +1,12 @@
-Smart Todo List
+****Smart Todo List****
 A Django-based smart todo list featuring AI-powered task prioritization and context integration.
 Easily manage, filter, and prioritize your tasks with a clean UI and intelligent features.
 
-🚀 Screenshots
-Add your screenshots to a screenshots/folder and update the image links below!
+**🚀 Screenshots**
 
-🛠️ Setup Instructions
+
+**
+🛠️ Setup Instructions**
 Clone the repository:
 
 bash
